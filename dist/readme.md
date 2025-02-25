@@ -1,4 +1,4 @@
-# @suryadarsan/html-to-md
+# html-to-md
 
 A lightweight package for converting HTML to Markdown, compatible with Vanilla JS and popular frameworks/libraries like Angular, React, and Node.js.
 
