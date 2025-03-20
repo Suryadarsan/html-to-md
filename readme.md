@@ -65,7 +65,7 @@ console.log(md);
 // HTML Element
 md = htmlToMd(document.querySelector('#someId'));
 console.log(md);
-...
+```
 
 #### CommonJS
 
